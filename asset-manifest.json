@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/LiveEdu-app-reto1/static/css/main.620f2e62.css",
-    "main.js": "/LiveEdu-app-reto1/static/js/main.a70ee875.js",
+    "main.js": "/LiveEdu-app-reto1/static/js/main.d10fa76b.js",
     "index.html": "/LiveEdu-app-reto1/index.html",
     "main.620f2e62.css.map": "/LiveEdu-app-reto1/static/css/main.620f2e62.css.map",
-    "main.a70ee875.js.map": "/LiveEdu-app-reto1/static/js/main.a70ee875.js.map"
+    "main.d10fa76b.js.map": "/LiveEdu-app-reto1/static/js/main.d10fa76b.js.map"
   },
   "entrypoints": [
     "static/css/main.620f2e62.css",
-    "static/js/main.a70ee875.js"
+    "static/js/main.d10fa76b.js"
   ]
 }
