@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LiveEdu-app-reto1/static/css/main.620f2e62.css",
+    "main.js": "/LiveEdu-app-reto1/static/js/main.13241309.js",
+    "index.html": "/LiveEdu-app-reto1/index.html",
+    "main.620f2e62.css.map": "/LiveEdu-app-reto1/static/css/main.620f2e62.css.map",
+    "main.13241309.js.map": "/LiveEdu-app-reto1/static/js/main.13241309.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.620f2e62.css",
+    "static/js/main.13241309.js"
+  ]
+}
